@@ -1,0 +1,22 @@
+{
+  "name": "angular-search",
+  "version": "0.0.0",
+  "authors": [
+    "Bryan M <bryan@thingswithpixels.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "requirejs": "~2.1.14",
+    "angular": "~1.2.18",
+    "lodash-amd": "~2.4.1"
+    "bootstrap": "~3.1.1"
+  }
+}
